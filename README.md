@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OshanJR
-- 👀 I’m interested in phiahing
+- 👀 I’m interested in phishing
 - 🌱 I’m currently learning phishing & hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
